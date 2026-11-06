@@ -27,13 +27,3 @@
 | 项目 | 简介 | 技术栈 |
 |---|---|---|
 | [huixiang-web](https://github.com/MaXin-noob/huixiang-web) | 回响 · 网页版：浏览器直连 TeamSpeak 的网页客户端 | React · Ktor · Kotlin · 纯 JVM tsproto |
-| [xinmouren-cdn](https://github.com/MaXin-noob/xinmouren-cdn) | 个人静态资源图床，通过 jsDelivr 提供免费直链 | — |
-
-### 📦 过往 / 归档项目
-
-- [principles-of-Computer](https://github.com/MaXin-noob/principles-of-Computer) —— 计算机原理课程设计：模拟机 + 超前进位加法器（Python，已归档）
-- [RoboMaster-hero](https://github.com/MaXin-noob/RoboMaster-hero) —— RoboMaster 机甲大师英雄机器人（C，已归档）
-
-## 📫 找到我
-
-- GitHub：[@MaXin-noob](https://github.com/MaXin-noob)
